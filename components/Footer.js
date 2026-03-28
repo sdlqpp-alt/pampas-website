@@ -1,0 +1,2 @@
+import Link from 'next/link';
+export default function Footer(){return <footer className="footer"><div className="container footer-inner"><div>© 2026 Weifang Pampas International Trading Co., Ltd.</div><div className="footer-links"><Link href="/">Home</Link><Link href="/products">Products</Link><Link href="/custom-solutions">Solutions</Link><Link href="/about">About</Link><Link href="/contact">Contact</Link></div></div></footer>}
